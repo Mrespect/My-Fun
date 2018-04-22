@@ -1,0 +1,314 @@
+    1  fcsbvfdbdfb
+    2  df
+    3  ls
+    4  cd music
+    5  cd /Music
+    6  cd / MUSİC
+    7  mkdir sadss
+    8  ls
+    9  cd ../
+   10  cd ../../
+   11  cd Desktop
+   12  ls
+   13  cd
+   14  ls
+   15  cd Music
+   16  mkdir mine
+   17  ls
+   18  cd
+   19  cd Music
+   20  ls
+   21  cd
+   22  cd /Music
+   23  ls
+   24  cd / MUSİC
+   25  LS
+   26  ls
+   27  cd
+   28  ls
+   29  locate MUSİC
+   30  locate /MUSİC
+   31  cd
+   32  cd Desktop
+   33  mkdir fuckin file
+   34  ls
+   35  rm -r fuckin file
+   36  mkdir mine
+   37  cd
+   38  cd Desktop/mine
+   39  mkdir fll
+   40  cd
+   41  ls
+   42  rm -r Desktop/mine
+   43  cmatrix
+   44  sudo apt install cmatrix
+   45  156
+   46  sudo apt install cmatrix
+   47  cmatrix
+   48  ls -l
+   49  cmatrix
+   50  cd Desktop
+   51  ls -l
+   52  mkdir sss
+   53  ls -l sss
+   54  ls-l
+   55  ls -l
+   56  mkdir jjjj.txt
+   57  ls
+   58  chmod jjjj.txt=rwx
+   59  chmod --help
+   60  chmod jjjj.txt
+   61  chmod 55 jjjj.txt
+   62  ls
+   63  chmod=rwx jjjj.txt 
+   64  chmod jjjj.txt =r
+   65  cd
+   66  apt-get git
+   67  apt install git
+   68  python3
+   69  gedit
+   70  gedit a
+   71  sudo apt install gedit
+   72  gedit
+   73  cd Desktop
+   74  mv Untitled Document 1 daf
+   75  mv Untitled Document 1 / Desktop
+   76  mv Untitled Document 1 /Desktop
+   77  mv daff /Desktop fad
+   78  mv daff /Desktop
+   79  sudo mv daff /Desktop
+   80  gedit
+   81  cd Desktop
+   82  python3
+   83  python3 oo\ gel\
+   84  python3 b
+   85  git add b
+   86  git clone https://github.com/Mrespect/My-Fun.git
+   87  git add b
+   88  sudo rm -r jjjj.txt
+   89  cd
+   90  cd git My-Fun
+   91  ds Desktop/My-Fun
+   92  cd Desktop
+   93  cd My-Fun
+   94  git add b
+   95  git config --global user email''maraton.6@hotmail.com''
+   96  git config --global user.email maraton.6@hotmail.com
+   97  git config --global user.name 'Mrespect'
+   98  git commit -m b
+   99  git push -u origin master
+  100  whoami
+  101  cal
+  102  date
+  103  nano
+  104  chmod +x mmm.sh
+  105  ./mmm.sh
+  106  nano
+  107  sudo ./gg.sh
+  108  chmod +x gg.sh
+  109  ./gg.sh
+  110  $name
+  111  echo "omar"
+  112  read name
+  113  nano
+  114  chmod +x nn.sh
+  115  ./nn.sh
+  116  nano
+  117  chmod +x N.sh
+  118  ./N.sh
+  119  nano N.sh
+  120  ./N.sh
+  121  nano N.sh
+  122  ./N.sh
+  123  nano N.sh
+  124  ./N.sh
+  125  nano
+  126  ./M.sh
+  127  chmod +x M.sh
+  128  ./M.sh
+  129  cmatrix
+  130  sudo echo $password
+  131  echo $password
+  132  nano M.sh
+  133  ./M.sh
+  134  echo $password
+  135  ./M.sh
+  136  nano M.sh
+  137  ./M.sh
+  138  cd
+  139  ccd
+  140  cd
+  141  ccd
+  142  cc
+  143  dcc
+  144  dcd
+  145  nano
+  146  chmod +x B.sh
+  147  ./B.sh
+  148  sadas
+  149  nano B.sh
+  150  ./B.sh
+  151  d
+  152  ./B.sh
+  153  cmatrix
+  154  nano
+  155  chmod +x M.sh
+  156  ./ M.sh
+  157  ./M.sh
+  158  nano M.sh
+  159  ./M.sh
+  160  nano M.sh
+  161  ./M.sh
+  162  nano M.sh
+  163  ./M.sh
+  164  nano M.sh
+  165  ./M.sh
+  166  nano
+  167  chmod +x m.sh
+  168  ./m.sh
+  169  nano m.sh
+  170  ./m.sh 6
+  171  ./m.sh -6
+  172  ./m.sh 6
+  173  nano m.sh
+  174  ./m.sh 6
+  175  nano m.sh
+  176  ./m.sh 6
+  177  ./m.sh 515
+  178  nano
+  179  ./m.sh
+  180  nano m.sh
+  181  ./m.sh
+  182  nano m.sh
+  183  ./m.sh
+  184  nano m.sh
+  185  ./m.sh 6
+  186  nano m.sh
+  187  ./m.sh 6
+  188  ./m.sh 0
+  189  nano m.sh
+  190  ./m.sh 5
+  191  nano m.sh
+  192  ./m.sh 5
+  193  nano m.sh
+  194  ./m.sh 5
+  195  nano m.sh
+  196  ./m.sh 5
+  197  env
+  198  ls && exit
+  199  ls && cd/etc
+  200  ls && cd /etc
+  201  mandb
+  202  lsb_release -a
+  203  cal
+  204  hostname
+  205  w
+  206  who
+  207  whoami
+  208  who -b
+  209  who -r
+  210  uptime
+  211  where is M.sh
+  212  whereis M.sh
+  213  locate config
+  214  sudo dmidecode
+  215  sudo dmidecode -t system
+  216  sudo dmidecode -t 4
+  217  cat /proc/meminfo
+  218  cat /proc/cpuinfo
+  219  fdisk -l
+  220  sudo fdisk -l
+  221  du -ha /etc
+  222  free -m
+  223  cd
+  224  status -f
+  225  netstat
+  226  cd Desktop
+  227  touch file_1
+  228  cat > file_1
+  229  rm -t file_1
+  230  rm file_1
+  231  rm jjjj.txt
+  232  ls
+  233  rm -t jjjj.txt
+  234  rm --help
+  235  rm -r jjj.txt
+  236  rm jjjj.txt
+  237  rm -R jjjj.txt
+  238  chmod --help
+  239  cd
+  240  cd Desktop
+  241  touch file_a
+  242  touch file_b
+  243  cat > file_a
+  244  cd
+  245  c
+  246  dc
+  247  cd
+  248  touch ceyda
+  249  cat > ceyda
+  250  shred -n 10 -v ceyda
+  251  cat ceyda
+  252  cd
+  253  cd Desktop
+  254  shred -uv ayse
+  255  shred -uv ceyda
+  256  touch example
+  257  touch sample
+  258  touch test
+  259  tar -cf file.tar example samle test
+  260  tar -cf file.tar example sample test
+  261  rm example
+  262  rm sample
+  263  rm test
+  264  sudo rm jjjj.txt
+  265  tar -vfx file.tar
+  266  tar -xvf file.tar
+  267  gzip example
+  268  gunzip example
+  269  umask
+  270  chattr +i test
+  271  sudo chattr +i test
+  272  rm test
+  273  rm jjjj.txt
+  274  lsattr
+  275  chmod +xacf
+  276  chmod +xvcf jjjj.txt
+  277  chmod +a jjjj.txt
+  278  sudo chattr -i test
+  279  rm test
+  280  rm example
+  281  rm file.tar
+  282  rm file_a
+  283  rm file_b
+  284  rm sample
+  285  rm sss
+  286  rm Desktop/sss
+  287  rm -r Desktop/sss
+  288  ps aux
+  289  ps -p
+  290  ps
+  291  cd
+  292  ps
+  293  pgrep firefox
+  294  kill -9 4744
+  295  cfdisk
+  296  sudo cfdisk
+  297  ls rc*.*
+  298  sudo ls rc*.*
+  299  cd etc
+  300  cd Desktop/etc
+  301  cd Desktop
+  302  cd etc
+  303  cd /etc
+  304  sudo ls rc*.*
+  305  sudo apt-get install bleachbit
+  306  sudo apt-get remove bleachbit
+  307  ifconfig
+  308  iwconfig
+  309  whois onedio.com.tr
+  310  sudo apt install whois
+  311  whois onedio.com.tr
+  312  whois reddit.com
+  313  history
+
